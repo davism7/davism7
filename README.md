@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">I'm an undergraduate Computer Science student at Cal Poly SLO, expecting to graduate in Fall 2026. I have a strong interest in Data Analytics, where I enjoy working with data to uncover patterns and extract insights. I'm also passionate about Product Design, focusing on creating thoughtful, user-centered interfaces and experiences through iterative prototyping.</p>
+<p align="left">Currently an undergraduate Computer Science student at Cal Poly SLO, expected to graduate in Fall 2026. I'm drawn to Data Analytics for its ability to reveal patterns and insights within data. I also have a passion for Product Design, specializing in crafting user-centered interfaces and experiences through interative prototyping.</p>
 
 ###
 
-<p align="left">🖥️ See my portfolio at <a href="https://davism7.github.io" target="_blank">davism7.github.io</a></p>
+<p align="left">  ● See my portfolio at <a href="https://davism7.github.io" target="_blank">davism7.github.io</a></p>
 
 ###
 
