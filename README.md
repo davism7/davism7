@@ -6,7 +6,9 @@
 
 ###
 
-<p align="left">  ● See my portfolio at <a href="https://davism7.github.io" target="_blank">davism7.github.io</a></p>
+<ul>
+  <li>See my portfolio at <a href="https://davism7.github.io" target="_blank">davism7.github.io</a></li>
+</ul>
 
 ###
 
