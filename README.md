@@ -8,7 +8,7 @@
 
 <ul>
   <li> Check out my portfolio: <a href="https://davism7.github.io" target="_blank">Portfolio</a</li>
-  <li> Check out my linkedin: <a href="https://www.linkedin.com/in/davismoralescs/" target="_blank">Linkedin</a</li>
+  <li> Check out my linkedin: <a href="https://www.linkedin.com/in/dm-cs/" target="_blank">Linkedin</a</li>
 </ul>
 
 ###
