@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Currently an undergraduate Computer Science student at Cal Poly SLO, expected to graduate in Fall 2026. I'm drawn to Data Analytics for its ability to reveal patterns and insights within data. I also have a passion for Product Design, specializing in crafting user-centered interfaces and experiences through interative prototyping.</p>
+<p align="left">I'm an undergraduate student at Cal Poly SLO studying Computer Science with a minor in Entrepreneurship, graduating in Spring 2026. I'm interested in opportunities that help me grow both technically and professionally while deepening my focus on data and machine learning. I enjoy applying data-driven and machine learning approaches to uncover patterns and insights that support more informed business decisions, and I'm eager to expand these skills in a professional setting.</p>
 
 ###
 
