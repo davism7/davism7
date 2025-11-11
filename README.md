@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a Computer Science undergraduate at Cal Poly SLO, concentrating in Data Engineering and graduating in Spring 2026. My focus is on data and machine learning, with a strong interest in building systems that turn complex data into meaningful insights. I'm actively seeking opportunities to apply my skills in industry projects while continuing to grow both technically and professionally.</p>
+<p align="left">I’m an undergraduate Computer Science student at Cal Poly SLO with a minor in Entrepreneurship, graduating Spring 2026. My current area of focus is using large-scale data to drive strategic business decisions that enhance operational performance.</p>
 
 ###
 
