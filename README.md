@@ -1,16 +1,24 @@
-## Hi there 👋
+<h1 align="center">Hi  👋 I'm Davis</h1>
 
-<!--
-**davism7/davism7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">I’m an undergraduate Computer Science student at Cal Poly SLO with a minor in Entrepreneurship, graduating Spring 2026. My current area of focus is using large-scale data to drive strategic business decisions that enhance operational performance.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<ul>
+  <li> Check out my portfolio: <a href="https://davism7.github.io" target="_blank">Portfolio</a</li>
+  <li> Check out my linkedin: <a href="https://www.linkedin.com/in/dm-cs/" target="_blank">Linkedin</a</li>
+</ul>
+
+###
+
+<h2 align="left">Languages</h2>
+
+###
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=davism7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
