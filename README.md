@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I’m an undergraduate Computer Science student at Cal Poly SLO with a minor in Entrepreneurship, graduating Spring 2026. My primary focus is using large-scale data to show historical insights and perform predictive modeling to help drive strategic business decisions.</p>
+<p align="left">Undergraduate Computer Science student at Cal Poly SLO with a minor in Entrepreneurship, graduating Spring 2026. Experienced in database management, historical data analysis, and predictive modeling to support data-driven decision making.</p>
 
 ###
 
