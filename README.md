@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Undergraduate Computer Science student at Cal Poly SLO with a minor in Entrepreneurship, graduating Spring 2026. Experienced in database management, historical data analysis, and predictive modeling to support data-driven decision making.</p>
+<p align="left">Incoming MSBA candidate at Chapman University with a BS in Computer Science from Cal Poly SLO. Experienced in database management, historical data analysis, and predictive modeling to support data-driven decision making.​​​​​​​​​​​​​​​​</p>
 
 ###
 
